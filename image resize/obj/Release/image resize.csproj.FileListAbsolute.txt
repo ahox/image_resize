@@ -1,0 +1,15 @@
+K:\test\PointThread\image resize\image resize\bin\Release\image resize.exe.config
+K:\test\PointThread\image resize\image resize\bin\Release\image resize.exe.manifest
+K:\test\PointThread\image resize\image resize\bin\Release\image resize.application
+K:\test\PointThread\image resize\image resize\bin\Release\image resize.exe
+K:\test\PointThread\image resize\image resize\bin\Release\image resize.pdb
+K:\test\PointThread\image resize\image resize\obj\Release\ResolveAssemblyReference.cache
+K:\test\PointThread\image resize\image resize\obj\Release\image_resize.Form1.resources
+K:\test\PointThread\image resize\image resize\obj\Release\image_resize.Properties.Resources.resources
+K:\test\PointThread\image resize\image resize\obj\Release\ResGen.read.1.tlog
+K:\test\PointThread\image resize\image resize\obj\Release\ResGen.write.1.tlog
+K:\test\PointThread\image resize\image resize\obj\Release\image resize.TrustInfo.xml
+K:\test\PointThread\image resize\image resize\obj\Release\image resize.exe.manifest
+K:\test\PointThread\image resize\image resize\obj\Release\image resize.application
+K:\test\PointThread\image resize\image resize\obj\Release\image resize.exe
+K:\test\PointThread\image resize\image resize\obj\Release\image resize.pdb

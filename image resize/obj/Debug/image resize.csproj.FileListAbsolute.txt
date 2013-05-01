@@ -1,0 +1,5 @@
+K:\test\PointThread\image resize\image resize\bin\Debug\image resize.exe.config
+K:\test\PointThread\image resize\image resize\obj\Debug\image resize.exe
+K:\test\PointThread\image resize\image resize\obj\Debug\image resize.pdb
+K:\test\PointThread\image resize\src\imegeresize_src_20130501\image resize\bin\Debug\image resize.exe.config
+C:\usr\git\local\image_resize\image resize\bin\Debug\image resize.exe.config

@@ -1,0 +1,17 @@
+C:\Users\private\Documents\Visual Studio 2005\Projects\image resize\image resize\bin\Debug\image resize.exe
+C:\Users\private\Documents\Visual Studio 2005\Projects\image resize\image resize\bin\Debug\image resize.pdb
+C:\Users\private\Documents\Visual Studio 2005\Projects\image resize\image resize\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\private\Documents\Visual Studio 2005\Projects\image resize\image resize\obj\Debug\image_resize.Form1.resources
+C:\Users\private\Documents\Visual Studio 2005\Projects\image resize\image resize\obj\Debug\image_resize.Properties.Resources.resources
+C:\Users\private\Documents\Visual Studio 2005\Projects\image resize\image resize\obj\Debug\image resize.csproj.GenerateResource.Cache
+C:\Users\private\Documents\Visual Studio 2005\Projects\image resize\image resize\obj\Debug\image resize.exe
+C:\Users\private\Documents\Visual Studio 2005\Projects\image resize\image resize\obj\Debug\image resize.pdb
+C:\Users\private\Documents\Visual Studio 2005\Projects\image resize\image resize\bin\Debug\image resize.exe.config
+C:\Users\private\Documents\Visual Studio 2005\Projects\image resize\image resize\bin\Debug\image resize.exe.manifest
+C:\Users\private\Documents\Visual Studio 2005\Projects\image resize\image resize\bin\Debug\image resize.application
+C:\Users\private\Documents\Visual Studio 2005\Projects\image resize\image resize\obj\Debug\image resize.TrustInfo.xml
+C:\Users\private\Documents\Visual Studio 2005\Projects\image resize\image resize\obj\Debug\image resize.exe.manifest
+C:\Users\private\Documents\Visual Studio 2005\Projects\image resize\image resize\obj\Debug\image resize.application
+C:\Users\Public\Documents\image resize\image resize\bin\Debug\image resize.exe.config
+C:\Users\Public\Documents\image resize\image resize\obj\Debug\image resize.exe
+C:\Users\Public\Documents\image resize\image resize\obj\Debug\image resize.pdb

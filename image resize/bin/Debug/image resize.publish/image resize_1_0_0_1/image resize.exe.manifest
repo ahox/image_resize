@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="image resize.exe" version="1.0.0.1" publicKeyToken="af4eafba3506bfe0" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="image resize" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="image resize.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="image resize.exe" size="32768">
+      <assemblyIdentity name="image resize" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>I0xUVwWlEyRBw7VrxCSHlHarSMQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="image resize.exe.config" size="1769">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>TJOlvSbYTrg2H3xWDZ8i9TWcHxk=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=BETA\private" issuerKeyHash="46c5cb5c39e311244a706d157822c3e10fccd757" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>5chrTaImM1jya1mdxS7pViufqio=</DigestValue></Reference></SignedInfo><SignatureValue>jifRRnL18sOJqaucbKNtvx8hi+USn1X14MM4YD8k2yhYIYkc0+I2Cyzmbp+fdkTm2dxei+AhJZvlGo7OLN8/0KryyMPAwCBjIsEWf9TKsCERsvREFa4S2nHAGnV55cOnFlHGoyPm6wcTm1Q19SXu2tMYPpS5hMUzo58xdC0EOHQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>nL2FoBfqw9AkoVXg+qd5CpJJs2yWju62zxa27Dk+m/zat5UXLQSMetpqW5/2QzMQlkMjUaUgthOzshSsjt6anggVG5gruC5o+paVYp/2S5iUlLZSes+Fhb50ZvCTTlWfbMcdFj7iphXhNEbyP1zhmisngczd2y8qgB43C6Yv1as=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="2aaa9f2b56e92ec59d596bf2583326a24d6bc8e5" Description="" Url=""><as:assemblyIdentity name="image resize.exe" version="1.0.0.1" publicKeyToken="af4eafba3506bfe0" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=BETA\private</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>wkQSn1Dc+E6myW3aJwWlhz7aBTA=</DigestValue></Reference></SignedInfo><SignatureValue>XugpFiYIn+AbyeWul00nVqAfVXHju68vVF0A0FWpmPDO1iOAYqsfu43o52O2h1qBUtpotuBrDcWvuLVli+c+Mw8b59SsESJUR9D6fuMWgOp1TnQ7LVN+cQXUwpx/nQySNQj73rNBu/PreqDEN8xORPBfEGmstY2UaRQK1oiMQEc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>nL2FoBfqw9AkoVXg+qd5CpJJs2yWju62zxa27Dk+m/zat5UXLQSMetpqW5/2QzMQlkMjUaUgthOzshSsjt6anggVG5gruC5o+paVYp/2S5iUlLZSes+Fhb50ZvCTTlWfbMcdFj7iphXhNEbyP1zhmisngczd2y8qgB43C6Yv1as=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQajiYoe52C5JHkHfmrUasbjANBgkqhkiG9w0BAQUFADAjMSEwHwYDVQQDHhgAQgBFAFQAQQBcAHAAcgBpAHYAYQB0AGUwHhcNMDkxMDA2MjI0NDU1WhcNMTAxMDA3MDQ0NDU1WjAjMSEwHwYDVQQDHhgAQgBFAFQAQQBcAHAAcgBpAHYAYQB0AGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJy9haAX6sPQJKFV4PqneQqSSbNslo7uts8Wtuw5Ppv82reVFy0EjHraaluf9kMzEJZDI1GlILYTs7IUrI7emp4IFRuYK7guaPqWlWKf9kuYlJS2UnrPhYW+dGbwk05Vn2zHHRY+4qYV4TRG8j9c4ZorJ4HM3dsvKoAeNwumL9WrAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAYGKKEd/N09FWuRz9WQXmXj78Htbd7SgCQCDbVPN8Ehk7gfGMgwQXTd6H4usK4h0l8g3RgoXwmmKnh6WQiWTB8YS+r6yHIOoe2uaIamZKT9np0/SvYd+nu3u4D7sn0+TdjRB2i1LLk4rs7Gr8TlC3InVtP0ChGhhrHE2A1BqybNE=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
